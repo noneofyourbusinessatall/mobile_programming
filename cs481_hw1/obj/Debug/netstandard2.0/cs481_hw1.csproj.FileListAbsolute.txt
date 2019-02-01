@@ -1,0 +1,12 @@
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/bin/Debug/netstandard2.0/cs481_hw1.deps.json
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/bin/Debug/netstandard2.0/cs481_hw1.dll
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/bin/Debug/netstandard2.0/cs481_hw1.pdb
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/cs481_hw1.csprojAssemblyReference.cache
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/cs481_hw1.csproj.CoreCompileInputs.cache
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/cs481_hw1.AssemblyInfoInputs.cache
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/cs481_hw1.AssemblyInfo.cs
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/cs481_hw1.dll
+/Users/killo001/Projects/cs481_hw1/cs481_hw1/obj/Debug/netstandard2.0/cs481_hw1.pdb
